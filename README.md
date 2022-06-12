@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @a4adil
-- 👀 I’m interested Project managment and development
+- 👀 I’m interested in Software managment and development
 - 🌱 I’m currently doing job as senior software engineer
 - 📫 How to reach me a4adil15@gmail.com
 
