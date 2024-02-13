@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @a4adil
+- 👋 Hi, I’m Muhammad Adil
 - 👀 I’m interested in Software managment and development
 - 🌱 I’m currently doing job as senior software engineer But always open to explore new layers.
 - 📫 How to reach me a4adil15@gmail.com
